@@ -34,7 +34,7 @@ npm --version
 
 ### 1️⃣ Extract the Project
 
-1. Download and extract the ZIP file.
+1. Clone the repository
 2. Open the folder named **`InventoHub`**.
 
 ### 2️⃣ Configure Environment Variables
