@@ -80,3 +80,17 @@ npm run dev
 Once both servers are running, open your browser and go to:
 
 👉 **http://localhost:5173**
+
+
+### 🧑‍💼 Demo Login Credentials
+
+You can use the following demo accounts to explore the application:
+
+| Role      | Email                            | Password          |
+| --------- | -------------------------------- | ----------------- |
+| **Admin** | `parkaviparkavi15@gmail.com`     | `8ShT*x8d4EAn#ga` |
+| **User**  | `parkavimuthukrishnan@gmail.com` | `BWcc.6rxdn.3zJc` |
+
+> ⚠️ **Note:** These are demo credentials for testing purposes only.
+> Please do **not** change or misuse these accounts.
+
